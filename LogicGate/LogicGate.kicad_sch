@@ -1011,7 +1011,7 @@
     (property "Value" "Screw_Terminal_01x07" (id 1) (at 187.96 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-6-3.5-H_1x06_P3.50mm_Horizontal" (id 2) (at 187.96 78.74 0)
+    (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-7-3.5-H_1x07_P3.50mm_Horizontal" (id 2) (at 187.96 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 187.96 78.74 0)
@@ -1418,7 +1418,7 @@
       (reference "J2") (unit 1) (value "Screw_Terminal_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
     )
     (path "/2fb78107-f191-46e4-b26d-54a2f7ca615a"
-      (reference "J3") (unit 1) (value "Screw_Terminal_01x07") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-6-3.5-H_1x06_P3.50mm_Horizontal")
+      (reference "J3") (unit 1) (value "Screw_Terminal_01x07") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-7-3.5-H_1x07_P3.50mm_Horizontal")
     )
     (path "/40c3bae4-5b67-4585-88ff-668d6966e76a"
       (reference "R1") (unit 1) (value "R_US") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")

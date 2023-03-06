@@ -872,7 +872,7 @@
     (uuid 2b4a485a-9a24-4929-bea2-a453e8cb0507)
     (property "Reference" "C3" (id 0) (at 161.29 71.12 90))
     (property "Value" "270pF" (id 1) (at 161.29 73.66 90))
-    (property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" (id 2) (at 165.1 77.7748 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm" (id 2) (at 165.1 77.7748 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 161.29 78.74 0)
@@ -1025,7 +1025,7 @@
     (property "Value" "330pF" (id 1) (at 156.21 85.0899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm" (id 2) (at 153.3652 87.63 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm" (id 2) (at 153.3652 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 152.4 83.82 0)
@@ -1124,10 +1124,10 @@
       (reference "C1") (unit 1) (value "C") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
     )
     (path "/b5058b0b-4178-433e-94f8-d98c100b0aed"
-      (reference "C2") (unit 1) (value "330pF") (footprint "Capacitor_THT:C_Disc_D7.5mm_W4.4mm_P5.00mm")
+      (reference "C2") (unit 1) (value "330pF") (footprint "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm")
     )
     (path "/2b4a485a-9a24-4929-bea2-a453e8cb0507"
-      (reference "C3") (unit 1) (value "270pF") (footprint "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm")
+      (reference "C3") (unit 1) (value "270pF") (footprint "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm")
     )
     (path "/3a199f99-6e87-4483-bd70-76bbe63aedf3"
       (reference "J1") (unit 1) (value "Screw_Terminal_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")

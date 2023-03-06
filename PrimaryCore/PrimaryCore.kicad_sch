@@ -1077,7 +1077,7 @@
     (property "Value" "C" (id 1) (at 91.44 86.3599 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal" (id 2) (at 88.5952 88.9 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" (id 2) (at 88.5952 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 87.63 85.09 0)
@@ -1121,7 +1121,7 @@
       (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
     )
     (path "/e8fec1cf-a7c5-4355-bd03-2be882de8537"
-      (reference "C1") (unit 1) (value "C") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal")
+      (reference "C1") (unit 1) (value "C") (footprint "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm")
     )
     (path "/b5058b0b-4178-433e-94f8-d98c100b0aed"
       (reference "C2") (unit 1) (value "330pF") (footprint "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm")
